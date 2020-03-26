@@ -10,6 +10,6 @@ export class AppComponent {
   title = 'backend';
 
   constructor(public wsService: WebSocketsService){
-    
+  
   }
 }
