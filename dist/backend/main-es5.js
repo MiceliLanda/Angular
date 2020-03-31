@@ -521,7 +521,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var environment = {
       production: false,
-      wsUrl: 'http://angularvist.ddns.net:9000/'
+      wsUrl: 'http://angular-miceli.ddns.net/'
     };
     /***/
   },

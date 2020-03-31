@@ -266,7 +266,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "environment", function() { return environment; });
 const environment = {
     production: false,
-    wsUrl: 'http://angularvist.ddns.net:9000/'
+    wsUrl: 'http://angular-miceli.ddns.net/'
 };
 
 
